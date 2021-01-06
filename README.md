@@ -5,13 +5,13 @@
 
 ## حمیدرضامیرزایی
 
-- [PNU_3991_AR]()
+- [PNU_3991_AR](https://github.com/hamid010010/PNU_3991_AR/)
 
-- [حساب گیت هاب]()
+- [حساب گیت هاب](https://github.com/hamid010010)
 
-- [رزومه]()
+- [رزومه](https://hamid010010.github.io/hamidrezamirzaei.github.io/)
 
-- [انگیزه نامه]()
+- [انگیزه نامه](https://github.com/hamid010010/SOP/blob/main/hamidrezaMirza%20SOP.pdf)
 
 - [JavaScript_Certificate](JavaScript_Certificate.jpg)
 
