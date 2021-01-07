@@ -32,6 +32,7 @@
 ### دروس کارشناسی
 
 [1322110_01	طراحي واسط كاربر	](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+[تعامل انسان وکامپیوتر_1322108_01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
 ----------------
 <br>
