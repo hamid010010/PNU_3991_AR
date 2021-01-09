@@ -11,7 +11,7 @@
 
 - [رزومه](https://hamid010010.github.io/hamidrezamirzaei.github.io/)
 
-- [انگیزه نامه](https://github.com/hamid010010/SOP/blob/main/hamidrezaMirza%20SOP.pdf)
+- [انگیزه نامه](https://hamid010010.github.io/SOP/)
 
 - [JavaScript_Certificate](JavaScript_Certificate.jpg)
 
